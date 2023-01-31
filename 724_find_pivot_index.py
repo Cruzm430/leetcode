@@ -1,3 +1,4 @@
+#https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
         left_sum = 0 
